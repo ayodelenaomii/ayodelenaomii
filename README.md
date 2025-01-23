@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayodelenaomii
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Machine Learning develoment 
+- 🌱 I’m currently learning Machine Learning development 
 
 
 <!---
